@@ -1,6 +1,6 @@
 # Async JavaScript
 
-This code example is for my code mag. article at : <url to be published later>
+This code example is for my code mag. article at : [this URL](https://codemag.com/Article/2405021/Async-Programming-in-JavaScript)
 
 ## Instructions
 
